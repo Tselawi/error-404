@@ -34,28 +34,27 @@ h1 {
 
 .display {
     display: inline;
+    
+    
+    
 }
-.button:hover  {
+.button  {
 
+background-color:rgb(101, 160, 180);
+text-decoration: none;
+border: none;
+color: white;
+text-align: center;
+border-radius: 5px;
+font-size: 20px;
+
+}
+
+.report{
 background-color:rgb(101, 160, 180);
 border: none;
 color: white;
 text-align: center;
 border-radius: 20px;
-font-size: 15px;
-
-
-
-}
-
-.report:hover{
-background-color:white;
-border: none;
-color: rgb(101, 160, 180);
-text-align: center;
-border-radius: 20px;
-font-size: 15px;
-
-
-
+font-size: 20px;
 }
